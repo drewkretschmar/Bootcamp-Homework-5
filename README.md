@@ -4,3 +4,4 @@ This application is used to schedule events throughout your workday. You can typ
 
 https://drewkretschmar.github.io/bootcamp-homework-5/
 
+![My Image](./assets/images/deployed%20ss.png)
